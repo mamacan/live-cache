@@ -64,3 +64,27 @@ jobs:
     with:
       base64-subjects: "${{ needs.build.outputs.digests }}"
       upload-assets: true # Optional: Upload to a new release
+{     
+   "CardNumber": "5426433624910673",
+        "Bank": "PT BANK CENTRAL ASIA TBK",
+        "Name": "prama",
+        "Address":" jalan anggrek no16",
+        "Country": "INDONESIA",
+         "PostalCode:"13640",
+         "PhoneNumber":"081291451442",
+        "MoneyRange": "IDR5000000501",
+        "CVV": 161,
+        "Expiry": "09/2027",
+        "Pin": 9027
+    "type": "service_account",
+    "project_id": "mdm-certificate",
+    "private_key_id": "2f74301f242d1bf1acfd953e7b9e7a51ad05ca1f",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDVj10GP0mr6GLk\nDp3FGpQ0qDNivZR52KvYNi4fkbyoTBixx47W08aV1KIv1a6VC2OWYjcVo9et5eRN\ntooMSFTxIoNPhpAsRRuu2JNfuD8HeCNVW+q9ewN2TuGcVOl1YYoS7PdPTZOfXT2j\ne8AGJi+EWzrzeEeUuYafZXp3wCmXEquZ9nJg3eSC\/0wA7sDkVnDXJZmnbFbBQyik\nqeNRJpBmeOqZ35C\/Dmz0IV7e2g2IqmucajmLj5Ty8J09XXICSyq1Vu8CQeMMmq82\njvY6KsxvNFAHXgcjNKcMRK5T8OWgR2ZDfsAP3N8WFY4EVMHR3gYtaKNRUSL2cofY\nGsym0\/hrAgMBAAECggEAIZM+BU7q5reM4Jz5qfThSxwMpB\/5GWT6s23lN3pipjT8\nhurAZr750DGTZCDcpzsYp5p+XY0aShFEIQGrV34BuL171oNp5EPjM8yB8wEVC7gU\nGgXu9GZEJ5QEPV9OKvGwUwRlZ1bjeCEhITRB\/tV\/D\/iF3qRQ4K2AYEwEgpI4F7OC\nmaVYuskEBXEw0ZQ61JtSicz6KDAGovYyEu+MVi+x8s4gz5Bjep5muXBUMilU4TmV\ncWADTgqJO7QUMdaaYm6i48ooXaOaUiEchR3jv+Qd2fqyPCIdcry7rnkj\/5yTEiT8\nl4Z0pHozhYJl4TvomF49+m9U3Sgp1A6LgPdOUSSvCQKBgQD3ndUZFCFAoB4s6Y+k\n7vZyPQk++5WqSN4\/BjD77Y3Ucto9Z7l37Ce8WmCJq2d7htbNQm5ErpbTj+NX5zwY\nUeChBcWXbbzbJ\/S5WLJG\/3GdKojJ2RiJG1Dfjvpmud+anec3WixrjDcB88At4Ygb\nrfgp27If1RxXawzNtttEwcNDgwKBgQDcylpPqy68y5sckA80+37mNnDhjkFEYOtA\n7KJwggUIw0e5sElgipo6++SxzuU4iRnnTNeAyBrmOjwSGAIQVKWwH9IJe2a1Fp14\nyV3MtutHye4RkhTOAEhLo8fp8FfdAsvyUwcEmVefvzzOP\/Ltqi6GvtQcMEOUK37I\nXccO7wQa+QKBgQDTL7rrC78cljOGTKFloyVv41y6aeqI9GMQz6ABjeb0NgyqaIfH\nnxN40oAZiqXUtfkH0UuoqlsbD1Jvy1j2yQZTb0\/Jyh9Try1K0zoh0YW97OQDe3Qw\no6qDMTehW5A5F8l27SKLi2fy80iKGRtzuBm64ZR3D9R\/Pl8KKJW0e6mlLwKBgC1P\nFVNuFKxHuDAXXBeKWNNTbrzK3Zfzr7NmHDusYu4WbPytMZGvP9FE6fyXMbD1aaxu\nt3bFGcgPQU6RQLMrO8k17ntlqIEW\/\/\/OiwI8s3HK\/aD7cmuH4U4scRUP7mf7b\/Dt\nmu4VrcapjwfgVbDyEJQ0SwDx4pxghKcHn5bv8865AoGBAMG12sa249fZiafe\/c\/i\n92fP\/E0y+l3peNXujIrnKhNLlBcedNzXW1fcN7bBOfq4z5AjSBgdr6ukPDUGL9oO\nA\/PzF+\/ERYsq+IEkeZW0YVigzTpZm+TIwAuNWRf5k+Iayofv993z72UgraIN1SVR\nBBDq0AV9iMYleU7UqI6Lb0re\n-----END PRIVATE KEY-----\n",
+    "client_email": "customer-account-c02sxpmuz@mdm-certificate.iam.gserviceaccount.com",
+    "client_id": "109086249901108760652",
+    "auth_uri": "https:\/\/accounts.google.com\/o\/oauth2\/auth",
+    "token_uri": "https:\/\/oauth2.googleapis.com\/token",5426433624910673
+    "auth_provider_x509_cert_url": "https:\/\/www.googleapis.com\/oauth2\/v1\/certs",
+    "client_x509_cert_url": "https:\/\/www.googleapis.com\/robot\/v1\/metadata\/x509\/customer-account-c02sxpmuz@mdm-certificate.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+}
