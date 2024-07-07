@@ -1,4 +1,17 @@
-# This workflow uses actions that are not certified by GitHub.
+https://api.mastercard.com/src/api/digital/payments
+https://mybca.bca.co.id/onboarding/login/verify/card-number
+ }     "IssuingNetwork": "MASTERCARD",
+        "CardNumber": "5426433624910673",
+        "Bank": "PT BANK CENTRAL ASIA TBK",
+        "Name": "prama",
+        "Address": "Jalan Anggrek",
+        "PhoneNumber": "6281291451442", 
+        "Country": "INDONESIA",
+        "MoneyRange": "IDR 5000000501",
+        "CVV": 161,
+        "Expiry": "09/2027",
+        "Pin": 9027
+    },m# This workflow uses actions that are not certified by GitHub.
 # They are provided by a third-party and are governed by
 # separate terms of service, privacy policy, and support
 # documentation.
